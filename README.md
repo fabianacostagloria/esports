@@ -90,6 +90,15 @@ Ensure the following tools are installed on your system:
 
 ---
 
+## 🎨 Layout
+
+You can access the eSports design on Figma!  
+[**Check it out here**](https://www.figma.com/design/Ikw2tQSQq3VwxjwtXhcL6I/eSports).  
+
+![App Preview](https://github.com/fabianacostagloria/esports/blob/main/eSports.png)
+
+---
+
 ## 🛠 **Technologies Used**
 
 This project leverages the following technologies and frameworks:
