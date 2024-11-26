@@ -110,8 +110,6 @@ This project leverages the following technologies and frameworks:
 
 ## 👩‍💻 **Author**
 
-![Author's Photo](https://media.licdn.com/dms/image/v2/D4D03AQG9PqC1umLtgw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731598228354?e=1737590400&v=beta&t=lgASGZ7tcRhYkGw8bFUMSe0JMKAsucTeQCA4RlXto8Y)  
-
 **Fabiana Glória**  
 Made with ❤️ by Fabiana Glória. Get in touch! 🚀  
 
